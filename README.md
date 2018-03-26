@@ -1,0 +1,2 @@
+# oserver
+Server zero.
